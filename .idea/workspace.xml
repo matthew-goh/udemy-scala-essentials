@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3d37ab0-8cbb-4948-955e-67f30f84c90c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/MethodNotations.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/OOBasics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/AbstractDataTypes.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/Generics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/Inheritance.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/MyList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/Objects.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,37 +40,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodNotations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOBasics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Playground.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringOps.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/matthew.goh/Documents/Training/udemy-scala-essentials/src/main/scala/exercises/part1basics&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbstractDataTypes.executor": "Run",
+    "Application.Functions.executor": "Run",
+    "Application.Generics.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.MethodNotations.executor": "Run",
+    "Application.OOBasics.executor": "Run",
+    "Application.Objects.executor": "Run",
+    "Application.Playground.executor": "Run",
+    "Application.Recursion.executor": "Run",
+    "Application.StringOps.executor": "Run",
+    "Application.TestingMyList.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/matthew.goh/Documents/Training/udemy-scala-essentials/src/main/scala/exercises/part2oop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/exercises/part2oop" />
       <recent name="$PROJECT_DIR$/src/main/scala/exercises/part1basics" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="exercises.part2oop" />
       <recent name="exercises.part1basics" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestingMyList" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.part2oop.TestingMyList" />
+      <module name="udemy-scala-essentials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestingMyList" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ScalaProjectSettings">
     <option name="migrateConfigurationsNotificationShown" value="true" />
@@ -90,6 +120,9 @@
       <workItem from="1730729226544" duration="12405000" />
       <workItem from="1730797764988" duration="9969000" />
       <workItem from="1730814794039" duration="1319000" />
+      <workItem from="1730836964724" duration="739000" />
+      <workItem from="1730883811608" duration="3090000" />
+      <workItem from="1730973024754" duration="10073000" />
     </task>
     <servers />
   </component>
