@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3d37ab0-8cbb-4948-955e-67f30f84c90c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/AbstractDataTypes.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/Generics.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/Inheritance.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/MyList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/Objects.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/AnonymousClasses.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/CaseClasses.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/Exceptions.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/MyList.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AbstractDataTypes.executor": "Run",
+    "Application.AnonymousClasses.executor": "Run",
+    "Application.CaseClasses.executor": "Run",
+    "Application.Exceptions.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.Generics.executor": "Run",
     "Application.Inheritance.executor": "Run",
@@ -122,7 +123,11 @@
       <workItem from="1730814794039" duration="1319000" />
       <workItem from="1730836964724" duration="739000" />
       <workItem from="1730883811608" duration="3090000" />
-      <workItem from="1730973024754" duration="10073000" />
+      <workItem from="1730973024754" duration="13040000" />
+      <workItem from="1731074001663" duration="5248000" />
+      <workItem from="1731323480268" duration="2168000" />
+      <workItem from="1731429019983" duration="5539000" />
+      <workItem from="1731488647870" duration="1583000" />
     </task>
     <servers />
   </component>
