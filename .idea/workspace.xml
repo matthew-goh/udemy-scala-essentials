@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3d37ab0-8cbb-4948-955e-67f30f84c90c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part3functionalprog/AnonymousFunctions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part3functionalprog/WhatsAFunction.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part3functionalprog/HOFsCurries.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/MyList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exercises/part3functionalprog/WhatsAFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exercises/part3functionalprog/WhatsAFunction.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +48,12 @@
   "keyToString": {
     "Application.AbstractDataTypes.executor": "Run",
     "Application.AnonymousClasses.executor": "Run",
+    "Application.AnonymousFunctions.executor": "Run",
     "Application.CaseClasses.executor": "Run",
     "Application.Exceptions.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.Generics.executor": "Run",
+    "Application.HOFsCurries.executor": "Run",
     "Application.Inheritance.executor": "Run",
     "Application.MethodNotations.executor": "Run",
     "Application.OOBasics.executor": "Run",
@@ -139,7 +141,7 @@
       <workItem from="1731429019983" duration="5539000" />
       <workItem from="1731488647870" duration="7620000" />
       <workItem from="1731525148372" duration="16000" />
-      <workItem from="1731662330676" duration="3249000" />
+      <workItem from="1731662330676" duration="13832000" />
     </task>
     <servers />
   </component>

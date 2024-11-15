@@ -3,7 +3,7 @@ package exercises.part3functionalprog
 object WhatsAFunction extends App {
 
   // DREAM: use functions as first class elements
-  // - work with them like with plain values (pass as parameters, return from functions)
+  // - work with them like with plain values (pass as parameters, return as results)
   // problem: object-oriented world - classes and methods
 
   // an instance of MyFunction (a function-like class)
