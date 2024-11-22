@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3d37ab0-8cbb-4948-955e-67f30f84c90c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/extras/WhyAreTypeClassesUseful.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part3functionalprog/MapFlatmapFilterFor.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part3functionalprog/Maybe.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part3functionalprog/Sequences.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/exercises/part3functionalprog/TuplesAndMaps.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/exercises/part2oop/MyList.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,20 +57,24 @@
     "Application.Generics.executor": "Run",
     "Application.HOFsCurries.executor": "Run",
     "Application.Inheritance.executor": "Run",
+    "Application.MapFlatmapFilterFor.executor": "Run",
+    "Application.MaybeTest.executor": "Run",
     "Application.MethodNotations.executor": "Run",
     "Application.OOBasics.executor": "Run",
     "Application.Objects.executor": "Run",
     "Application.Playground.executor": "Run",
     "Application.Recursion.executor": "Run",
+    "Application.Sequences.executor": "Run",
     "Application.StringOps.executor": "Run",
     "Application.TestingMyList.executor": "Run",
+    "Application.TuplesAndMaps.executor": "Run",
     "Application.WhatsAFunction.executor": "Run",
     "Application.WhyAreTypeClassesUseful.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/matthew.goh/Documents/Training/udemy-scala-essentials",
+    "last_opened_file_path": "/Users/matthew.goh/Documents/Training/udemy-scala-essentials/src/main/scala/exercises/part3functionalprog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,7 +98,7 @@
       <recent name="exercises.part1basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WhyAreTypeClassesUseful">
+  <component name="RunManager">
     <configuration name="TestingMyList" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="exercises.part2oop.TestingMyList" />
       <module name="udemy-scala-essentials" />
@@ -156,6 +164,7 @@
       <workItem from="1731525148372" duration="16000" />
       <workItem from="1731662330676" duration="13833000" />
       <workItem from="1732189551265" duration="5077000" />
+      <workItem from="1732266446234" duration="18991000" />
     </task>
     <servers />
   </component>

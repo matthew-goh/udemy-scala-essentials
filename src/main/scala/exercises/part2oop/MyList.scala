@@ -129,4 +129,11 @@ object TestingMyList extends App{
   println(list1.sort((x, y) => y - x))
   println(anotherList1.zipWith[String, String](list2, _ + "-" + _)) // zip is (a, b) => a + "-" + b
   println(list1.fold(0)(_ + _)) // op is (a, b) => a + b
+
+  // for comprehensions
+  val combinations = for {
+    n <- list1
+    string <- list2
+  } yield n + "-" + string
+  println(combinations)
 }
